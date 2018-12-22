@@ -1,6 +1,6 @@
 # Flutter: Responsive UI examples
 
-This Flutter project provides the supporting code for the tutorial [First steps with Flutter: Responding to user input](TODO). Check it out for more details.
+This Flutter project provides the supporting code for the tutorial [First steps with Flutter: Responding to user input](https://pusher.com/tutorials/flutter-user-input). Check it out for more details.
 
 ## Setup
 
